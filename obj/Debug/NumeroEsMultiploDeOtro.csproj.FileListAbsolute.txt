@@ -1,0 +1,7 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\bin\Debug\NumeroEsMultiploDeOtro.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\bin\Debug\NumeroEsMultiploDeOtro.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\bin\Debug\NumeroEsMultiploDeOtro.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\obj\Debug\NumeroEsMultiploDeOtro.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\obj\Debug\NumeroEsMultiploDeOtro.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\obj\Debug\NumeroEsMultiploDeOtro.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\EJERCICIOS DE LÓGICA\NumeroEsMultiploDeOtro\NumeroEsMultiploDeOtro\obj\Debug\NumeroEsMultiploDeOtro.pdb
